@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Yuanming Hu. Working on [Taichi](https://github.com/taichi-dev/taichi) :-)
+
 <!--
 **yuanming-hu/yuanming-hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
